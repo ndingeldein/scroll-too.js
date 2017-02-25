@@ -6,4 +6,4 @@ npm-debug.log
 /sent_for_dev
 
 # ignore sandbox once forked
-# /sandbox
+/sandbox
