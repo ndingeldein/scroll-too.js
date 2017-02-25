@@ -1,7 +1,6 @@
 {
-  "name": "dev.js",
+  "name": "scroll-too",
   "dependencies": {
-    "jasmine": "^2.5.3",
     "jump.js": "^1.0.2"
   },
   "ava": {
@@ -32,5 +31,25 @@
     "production": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "author": "Neil Dingeldein <ndingeldein@gmail.com> (http://www.neildingeldein.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)",
+  "version": "0.0.0",
+  "main": "src/scroll-too.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndingeldein/scroll-too.js.git"
+  },
+  "keywords": [
+    "jump.js",
+    "smooth",
+    "scroll",
+    "anchor"
+  ],
+  "bugs": {
+    "url": "https://github.com/ndingeldein/scroll-too.js/issues"
+  },
+  "homepage": "https://github.com/ndingeldein/scroll-too.js#readme"
 }

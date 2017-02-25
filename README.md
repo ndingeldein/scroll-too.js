@@ -2,7 +2,7 @@
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 ## Description
-Leverages [![Jump.js](http://callmecavs.com/jump.js/)](http://standardjs.com/) to add a scroll animation to any link with a `#`.
+Leverages [Jump.js](http://callmecavs.com/jump.js/) to add a scroll animation to any link with a `#`.
 
 ```html
 <a href="#my-target">Scroll To My Target</a>
